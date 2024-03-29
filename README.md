@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Mirza</h1>
-<h3 align="center">A passionate DevOps and Cloud Computing</h3>
+<h3 align="center">A passionate DevOps and Cloud Technology</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI Powered Data Analysis System](https://internship.ineuron.ai/project/invite/Ai-Powered-Data-Analysis-System/447802e4-30df-43c5-a41d-e27122c38240)
 
-- 🌱 I’m currently learning **DevOps,Cloud Computing**
+- 🌱 I’m currently learning **DevOps,Cloud Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
