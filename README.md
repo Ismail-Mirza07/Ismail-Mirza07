@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ismail-Mirza07/Ismail-Mirza07/blob/main/Mirza%20GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ismail Mirza</h1>
-<h3 align="center">A passionate DevOps and Cloud Technology</h3>
+<h3 align="center">A passionate Data and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-mirza07&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-mirza07" /> </p>
 
