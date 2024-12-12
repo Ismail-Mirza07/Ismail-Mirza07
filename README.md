@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismail Mirza</h1>
 <h3 align="center">A passionate about Data Analyst and Web development!</h3>
 
+<img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-mirza07&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-mirza07" /> </p>
 
 - 🔭 I’m currently working on [AI Powered Data Analysis System](https://internship.ineuron.ai/project/invite/Ai-Powered-Data-Analysis-System/447802e4-30df-43c5-a41d-e27122c38240)
