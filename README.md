@@ -1,3 +1,4 @@
+![logo](https://github.com/Ismail-Mirza07/Ismail-Mirza07/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ismail Mirza</h1>
 <h3 align="center">A passionate about Data Analyst and Web development!</h3>
 
